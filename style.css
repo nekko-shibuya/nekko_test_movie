@@ -96,7 +96,7 @@ h3 {
 }
 
 .nav-menu .nav-list li {
-    margin-left: 25px;
+    margin-left: 30px;
     position: relative;
 }
 
@@ -106,7 +106,7 @@ h3 {
     padding: 5px 0;
     display: block;
     transition: color 0.3s ease;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 .nav-menu .nav-list a:hover {
